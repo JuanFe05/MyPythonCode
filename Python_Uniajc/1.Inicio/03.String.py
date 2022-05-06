@@ -7,9 +7,9 @@ print("not", not cadena)  """ #forma recomendada
 
 ##############################################################
 
-""" palabra = "Hola"
+palabra = "Hola"
 repetir = palabra * 4
-print(repetir) """
+print(repetir)
 
 ##############################################################
 

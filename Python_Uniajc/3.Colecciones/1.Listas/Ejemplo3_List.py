@@ -2,16 +2,17 @@
 
 #Adición de elementos a una lista
 
-""" lista = list()
-lista.append('Hola')
+lista = list()
+frutas2 = []
 
 frutas = ['Banano', 'Naranja', 'Mango', 'Limón']
 frutas.append('Sandia')
 print(frutas)
 
+
 frutas.append('Manzana')
 print(frutas)
-"""
+
 ########################################################
 
 # Eliminación de elementos de una lista

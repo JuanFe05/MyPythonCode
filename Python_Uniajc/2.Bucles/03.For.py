@@ -3,7 +3,8 @@ import os, random, itertools
 ########################################################
 
 # El for en python es muy parecido al foreach de java, este me permite recorrer cada elemento de un conjunto de datos, Por ejemplo:
-numeros = [0, 1, 2, 3, 4, 5]
+numeros = [0, 1, 2, 3, 4, 5, 'Juan', True]
+
 for numero in numeros:  
     print(numero)       
 
